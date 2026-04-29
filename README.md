@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm AxelMardiyo</h1>
+<h3>Web Developer | Informatics Student</h3>
+
 # 💫 About Me:
 🎓 Informatics Student at UPN Veteran Jawa Timur  <br>💡 Passionate about Web Development & Technology  <br>🚀 Currently building real-world projects (LMS, CMS, Inventory System, etc)  <br>💼 Open for freelance: Landing Page, Company Profile, Laravel Web Apps  <br>📈 Focused on improving skills & building personal branding  
 
